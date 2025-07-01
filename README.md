@@ -4,7 +4,7 @@ Proyek ini bertujuan untuk menganalisis dan mengelompokkan data mobil bekas yang
 
 Dataset diambil dari: [Craigslist Cars and Trucks Dataset (by austinreese on Kaggle)](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
 
----
+--- 
 
 ## 📂 Struktur Proyek
 The dataset used is vehicles.csv, which contains listings of thousands of used cars and trucks from Craigslist.
