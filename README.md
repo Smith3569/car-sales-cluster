@@ -14,3 +14,14 @@ Key features used:
 - **Year** – Tahun kendaraan diproduksi.
 - **Odometer** – Jarak tempuh (dalam mil/km).
 - **Manufacturer**, **Fuel**, **Transmission**, **Type**, **Paint Color** – Fitur kategorikal yang dikonversi ke numerik.
+
+
+---
+
+🧠 Modeling
+Algoritma utama yang digunakan:
+- ** K-Means **- Clustering dari scikit-learn
+Digunakan - ** Elbow  **- Method untuk menentukan jumlah cluster terbaik (k)
+
+Reduksi dimensi menggunakan - ** PCA (Principal Component Analysis)  **- untuk visualisasi 2D
+
